@@ -6,7 +6,7 @@ def readme():
 
 
 setup(name='test_package',
-      version='0.1',
+      version='0.2',
       description='This is a testing package',
       url='',
       author='Mits Tsap',
